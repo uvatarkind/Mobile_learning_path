@@ -1,1 +1,1 @@
-# 2025-project-phase-mobile-tasks
+GDG on Campus AASTU flutter class exercises 
